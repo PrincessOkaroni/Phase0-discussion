@@ -1,0 +1,14 @@
+* {
+  background-color: blueviolet;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Arial", sans-serif;
+  color: white;
+}
+h1 {
+  text-align: center;
+  margin: 20px 0;
+}
