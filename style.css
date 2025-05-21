@@ -19,22 +19,7 @@ img {
   width: 100%;
   height: auto;
 }
-.container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: 20px;
-}
-.container img {
-  max-width: 100%;
-  height: auto;
-}
-.container h1 {
-  margin: 20px 0;
-}
-.container p {
-  font-size: 1.2rem;
-  line-height: 1.5;
-  text-align: center;
+img:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s;
 }
