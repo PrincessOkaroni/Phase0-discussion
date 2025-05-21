@@ -37,8 +37,8 @@ p {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
 }
 img {
-  width: 180px;
-  height: 140px;
+  width: 1800px;
+  height: 1400px;
   object-fit: cover;
   border-radius: 10px;
   margin: 16px 10px 0 0;
@@ -46,6 +46,8 @@ img {
   border: 2px solid #e0e0e0;
   transition: transform 0.2s;
   vertical-align: middle;
+  max-width: 900px;
+  margin: 24px auto 0 auto;
 }
 img:hover {
   transform: scale(1.05);
