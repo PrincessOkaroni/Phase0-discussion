@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background: #4caf50;
+  background: black;
   color: #fff;
   padding: 20px 0 10px 0;
   text-align: center;
@@ -36,7 +36,8 @@ nav a {
 }
 
 nav a:hover {
-  color: #ffd700;
+  color: orange;
+  cursor: pointer;
 }
 
 p {
