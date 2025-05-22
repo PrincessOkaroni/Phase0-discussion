@@ -50,12 +50,9 @@ p {
 img {
   width: 200px;
   height: 300px;
-  object-fit: cover;
   margin: 10px 8px;
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-  border: 2px solid #e0e0e0;
 }
 
 footer {
