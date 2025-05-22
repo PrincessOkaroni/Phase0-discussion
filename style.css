@@ -41,7 +41,6 @@ img {
   height: 140px;
   object-fit: cover;
   border-radius: 10px;
-  margin: 20px 0;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   border: 2px solid #e0e0e0;
   transition: transform 0.2s;
